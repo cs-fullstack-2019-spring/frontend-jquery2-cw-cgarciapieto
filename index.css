@@ -1,0 +1,12 @@
+/*class that turns background color seagreeen when called*/
+
+
+.turnWhite{
+    background-color: seagreen;
+}
+
+/*changes font size when called */
+.fontSize
+{
+    font-size: 20px;
+}
